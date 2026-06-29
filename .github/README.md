@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/pigerstreet/pigerstreet-AutoExec/archive/master.zip"><img src="https://raw.githubusercontent.com/pigerstreet/pigerstreet-AutoExec/master/pigerstreet_autoexec.svg" alt="pigerstreet AutoExec"></a>
+  pigerstreet AutoExec
 </h1>
 
 <h4 align="center">A high-quality Counter-Strike 2 config built for gamers.</h4>
