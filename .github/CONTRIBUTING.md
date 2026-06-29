@@ -1,6 +1,6 @@
 # Introduction
 
-Any critical security issues should be submitted directly in [contact](https://github.com/ArmynC/ArminC-AutoExec/security).
+Any critical security issues should be submitted directly in [contact](https://github.com/pigerstreet/pigerstreet-AutoExec/security).
 
 Make sure to use spaces (no tabs) and CRLF line endings for configs, and continue the Valve convention in the other file overrides. Ensure is no trailing space at the end of lines. Keep the standard text line size (per community, a ruler should have as a maximal length around 80 characters), otherwise skip to a new line.
 
@@ -16,7 +16,7 @@ prefix_command "value"
 
 Additional resources and knowledge:
 
-* [CS2 Cvars](https://github.com/ArmynC/ArminC-CS2-Cvars) / [alternative](https://cs2.poggu.me/dumped-data/convar-list).
+* [CS2 Cvars](https://github.com/pigerstreet/pigerstreet-CS2-Cvars) / [alternative](https://cs2.poggu.me/dumped-data/convar-list).
 * [Counter-Strike: Global Offensive blog posts/patch notes](http://blog.counter-strike.net/).
 * [Valve Developer Wiki](https://developer.valvesoftware.com/wiki/).
 * [Source SDK 2013](https://github.com/ValveSoftware/source-sdk-2013)

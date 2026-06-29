@@ -21,4 +21,4 @@
 - [ ] I have commented my code, particularly in hard-to-understand areas.
 - [ ] I have made corresponding changes to the documentation.
 - [ ] My changes don't generate new warnings.
-- [ ] I have read the [CONTRIBUTING](https://github.com/ArmynC/ArminC-AutoExec/blob/master/.github/CONTRIBUTING.md) document.
+- [ ] I have read the [CONTRIBUTING](https://github.com/pigerstreet/pigerstreet-AutoExec/blob/master/.github/CONTRIBUTING.md) document.

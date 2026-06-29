@@ -2,9 +2,9 @@
 
 ## Reporting a Vulnerability
 
-If there are any vulnerability in **ArminC AutoExec** project, don't hesitate to _report them_.
+If there are any vulnerability in **pigerstreet AutoExec** project, don't hesitate to _report them_.
         
-1. Use any of the [contact adresses](https://github.com/armync/arminc-autoexec#support).
+1. Use any of the [contact adresses](https://github.com/pigerstreet/pigerstreet-autoexec#support).
 2. Describe the vulnerability.
    * If you have a fix, explain or attach it.
      * In the near time, expect a reply with the required steps. Also, there may be a demand for a pull request which include the fixes.

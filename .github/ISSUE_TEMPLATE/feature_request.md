@@ -3,7 +3,7 @@ name: Feature request
 about: Suggest an idea for this project
 title: ''
 labels: ''
-assignees: 'ArmynC'
+assignees: 'pigerstreet'
 ---
 
 <!--- Provide a general summary of the feature in the Title above. -->
@@ -27,5 +27,5 @@ assignees: 'ArmynC'
 
 ## Checklist
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
-- [ ] I searched the [current issues](https://github.com/ArmynC/ArminC-AutoExec/issues) and the feature is not known.
+- [ ] I searched the [current issues](https://github.com/pigerstreet/pigerstreet-AutoExec/issues) and the feature is not known.
 - [ ] I am mostly sure that the feature will bring more good than harm.

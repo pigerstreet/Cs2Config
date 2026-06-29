@@ -1,19 +1,19 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/ArmynC/ArminC-AutoExec/archive/master.zip"><img src="https://raw.githubusercontent.com/ArmynC/ArminC-AutoExec/master/arminc_autoexec.svg" alt="ArminC AutoExec"></a>
+  <a href="https://github.com/pigerstreet/pigerstreet-AutoExec/archive/master.zip"><img src="https://raw.githubusercontent.com/pigerstreet/pigerstreet-AutoExec/master/pigerstreet_autoexec.svg" alt="pigerstreet AutoExec"></a>
 </h1>
 
 <h4 align="center">A high-quality Counter-Strike 2 config built for gamers.</h4>
 
 <p align="center">
-    <a href="https://github.com/ArmynC/ArminC-AutoExec/commits/master">
-    <img src="https://img.shields.io/github/last-commit/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
+    <a href="https://github.com/pigerstreet/pigerstreet-AutoExec/commits/master">
+    <img src="https://img.shields.io/github/last-commit/pigerstreet/pigerstreet-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub last commit">
-    <a href="https://github.com/ArmynC/ArminC-AutoExec/issues">
-    <img src="https://img.shields.io/github/issues-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
+    <a href="https://github.com/pigerstreet/pigerstreet-AutoExec/issues">
+    <img src="https://img.shields.io/github/issues-raw/pigerstreet/pigerstreet-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub issues">
-    <a href="https://github.com/ArmynC/ArminC-AutoExec/pulls">
-    <img src="https://img.shields.io/github/issues-pr-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
+    <a href="https://github.com/pigerstreet/pigerstreet-AutoExec/pulls">
+    <img src="https://img.shields.io/github/issues-pr-raw/pigerstreet/pigerstreet-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub pull requests">
 </p>
       
@@ -37,13 +37,13 @@
 <tr>
 <td>
   
-**ArminC AutoExec** is a high-quality _config_ for **Counter-Strike 2** that aims to improve the gameplay by enabling you to customize the game settings to your liking through its template system.
+**pigerstreet AutoExec** is a high-quality _config_ for **Counter-Strike 2** that aims to improve the gameplay by enabling you to customize the game settings to your liking through its template system.
 
 It comes filled with little optimizations such as **network capacity**, overall improving the gameplay for a wide variety of computers and players.
 
 Each and every one of the commands provided are **finely tuned**, enabling the game's full potential compared to default settings.
 
-![ArminC AutoExec Code](https://raw.githubusercontent.com/ArmynC/ArminC-AutoExec/master/arminc_autoexec_code.png)
+![pigerstreet AutoExec Code](https://raw.githubusercontent.com/pigerstreet/pigerstreet-AutoExec/master/pigerstreet_autoexec_code.png)
 <p align="right">
 <sub>(Preview)</sub>
 </p>
@@ -55,7 +55,7 @@ Each and every one of the commands provided are **finely tuned**, enabling the g
 ## Installation
 
 ##### Downloading and installing steps:
-1. **[Download](https://github.com/ArmynC/ArminC-AutoExec/archive/master.zip)** the latest version of the config.
+1. **[Download](https://github.com/pigerstreet/pigerstreet-AutoExec/archive/master.zip)** the latest version of the config.
 2.  Open the _archive_ and **extract** the contents of the `cfg` folder into the following path folder:<br>
 `\...\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\`
 3. **Launch** the game and **type** in the _console_ the following command: `exec autoexec.cfg`
@@ -73,16 +73,16 @@ Each and every one of the commands provided are **finely tuned**, enabling the g
 When a **new version** is out, you have **two methods** to _update_:
 
 ##### 1. You have edited the config based on your preference:
-* Check the new [commits](https://github.com/ArmynC/ArminC-AutoExec/commits/master) and **update** the config **manually** by relying on the _commits_.
+* Check the new [commits](https://github.com/pigerstreet/pigerstreet-AutoExec/commits/master) and **update** the config **manually** by relying on the _commits_.
 
 ##### 2. You haven't edited the config (or at least not so much):
 * **Delete everything** (or **replace the files** when it asks).
-* **Redo** the [installation](https://github.com/ArmynC/ArminC-AutoExec#installation) steps.
+* **Redo** the [installation](https://github.com/pigerstreet/pigerstreet-AutoExec#installation) steps.
 * _After setup_, **change your preference** settings back (if that is the case).
 
 ## Features
 
-|                            | 🔰 ArminC AutoExec  | ◾ Other Configs |
+|                            | 🔰 pigerstreet AutoExec  | ◾ Other Configs |
 | -------------------------- | :-----------------: | :---------------: |
 | Optimized values           |         ✔️         |        〰️        |
 | Useful scripts             |         ✔️         |        〰️        |
@@ -109,29 +109,29 @@ When a **new version** is out, you have **two methods** to _update_:
      \/
 
 ## Binds
-![ArminC AutoExec Binds](https://raw.githubusercontent.com/ArmynC/ArminC-AutoExec/master/arminc_autoexec_binds.png)
+![pigerstreet AutoExec Binds](https://raw.githubusercontent.com/pigerstreet/pigerstreet-AutoExec/master/pigerstreet_autoexec_binds.png)
 
 ## Wiki
 
-Do you **need some help**? Check out the _articles_ on the [wiki](https://github.com/ArmynC/ArminC-AutoExec/wiki/).
+Do you **need some help**? Check out the _articles_ on the [wiki](https://github.com/pigerstreet/pigerstreet-AutoExec/wiki/).
 
 ## Contributing
 
-Got **something interesting** you'd like to **share**? Learn about [contributing](https://github.com/ArmynC/ArminC-AutoExec/blob/master/.github/CONTRIBUTING.md).
+Got **something interesting** you'd like to **share**? Learn about [contributing](https://github.com/pigerstreet/pigerstreet-AutoExec/blob/master/.github/CONTRIBUTING.md).
 
 ## Credits
 
-| [![ArminC](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/images/a_small.png)](https://github.com/ArmynC)  | ![Community](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/images/community.png)		|
+| [![pigerstreet](https://raw.githubusercontent.com/pigerstreet/pigerstreet-Resources/main/images/a_small.png)](https://github.com/pigerstreet)  | ![Community](https://raw.githubusercontent.com/pigerstreet/pigerstreet-Resources/main/images/community.png)		|
 |:------------------------------------------------------------------------------------------------------------------------:	|:----------------------------------------------------------------------------------------------------:	|
-|                                                         **ArminC**                                                         |                                            **The community**                                           |
+|                                                         **pigerstreet**                                                         |                                            **The community**                                           |
 
 ## Support
 
-Reach out to me via the **[profile addresses](https://github.com/ArmynC)**.
+Reach out to me via the **[profile addresses](https://github.com/pigerstreet)**.
 
 ## Sponsor
 
-[![Donation](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%5E%5E-green?style=flat&logo=undertale&logoColor=green&color=white)](https://github.com/sponsors/armync)
+[![Donation](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%5E%5E-green?style=flat&logo=undertale&logoColor=green&color=white)](https://github.com/sponsors/pigerstreet)
 
 ## License
 
