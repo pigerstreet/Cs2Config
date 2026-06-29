@@ -43,10 +43,6 @@ It comes filled with little optimizations such as **network capacity**, overall 
 
 Each and every one of the commands provided are **finely tuned**, enabling the game's full potential compared to default settings.
 
-![pigerstreet AutoExec Code](https://raw.githubusercontent.com/pigerstreet/pigerstreet-AutoExec/master/pigerstreet_autoexec_code.png)
-<p align="right">
-<sub>(Preview)</sub>
-</p>
 
 </td>
 </tr>
@@ -107,9 +103,6 @@ When a **new version** is out, you have **two methods** to _update_:
      /\
      ||: Select any float/decimal value within the provided range
      \/
-
-## Binds
-![pigerstreet AutoExec Binds](https://raw.githubusercontent.com/pigerstreet/pigerstreet-AutoExec/master/pigerstreet_autoexec_binds.png)
 
 ## Wiki
 
